@@ -337,3 +337,6 @@ footer{
     text-decoration: none;
     margin-right: 18px;
 }
+.ft:hover{
+    text-decoration: underline;
+}
