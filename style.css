@@ -164,9 +164,9 @@ header{
     margin-right: 10px;
 }
 .products{
-    width: 94%;
+    width: 100%;
     height: auto;
-    margin: 40px 40px 20px 40px;
+    margin: 40px 20px 20px 0px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
